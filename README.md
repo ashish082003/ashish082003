@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ashish082003.ashish082003)
+![Profile views](https://komarev.com/ghpvc/?username=ashish082003&label=Profile%20views&color=0e75b6&style=flat)
 
 
 <!--
