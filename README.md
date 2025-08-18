@@ -1,4 +1,6 @@
 ## Hi there 👋
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ashish082003.ashish082003)
+
 
 <!--
 **ashish082003/ashish082003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
